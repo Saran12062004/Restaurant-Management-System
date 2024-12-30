@@ -1,0 +1,1 @@
+Order: Burger, Pasta | Total: $13.48
